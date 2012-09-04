@@ -1,0 +1,12 @@
+{ 
+  "name": "5 Practical Tips to Improve Your Code", 
+  "sections": [ 
+    {"section":"intro"},
+    {"section":"tell-a-story"},
+    {"section":"name-things-correctly"},
+    {"section":"premature-optimization"},
+    {"section":"defensive-programming"},
+    {"section":"dont-return-nil"},
+    {"section":"ending"}
+  ]
+}
